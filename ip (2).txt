@@ -1,4 +1,4 @@
-
+961000738
 连接特定的 DNS 后缀: 
 描述: Atheros AR9485 Wireless Network Adapter
 物理地址: 24-FD-52-85-AE-FA
